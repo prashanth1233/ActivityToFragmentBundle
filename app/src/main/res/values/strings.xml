@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragments_Using_Bundle</string>
+    <string name="button_name1">NEXT FRAGMENT</string>
+    <string name="text_1">Enter Name</string>
+    <string name="button1">CLICK HERE</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
